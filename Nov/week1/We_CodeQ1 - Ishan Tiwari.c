@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int N;
-    // printf("ENTER AMOUNT OF MONEY : ");
+    printf("ENTER AMOUNT OF MONEY : ");
     scanf("%d", &N);
     int N1=N;
     int numberOfSteps=0;
